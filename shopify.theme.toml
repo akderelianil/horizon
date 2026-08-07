@@ -1,0 +1,7 @@
+[environments.development]
+store = "h0pbr5-hm.myshopify.com"
+theme = "153520078936"
+
+[environments.live]
+store = "h0pbr5-hm.myshopify.com"
+theme = "152846696536"

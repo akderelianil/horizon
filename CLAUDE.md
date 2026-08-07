@@ -4,9 +4,9 @@ Bu repo, Shopify'ın resmi **Horizon** temasının (`Shopify/horizon`) `akdereli
 
 ## Mağaza ve ortamlar
 
-- Mağaza: `fsgaksesuar.myshopify.com`
-- **LIVE**: mağazada yayında olan tema. Sadece kullanıcı onayıyla güncellenir/yayınlanır.
-- **DEV**: unpublished/preview tema. Geliştirme ve önizleme burada yapılır.
+- Mağaza: `h0pbr5-hm.myshopify.com` (FSG Aksesuar)
+- **LIVE**: `FSG Aksesuar 1.0` — tema #152846696536, mağazada yayında. Sadece kullanıcı onayıyla güncellenir/yayınlanır.
+- **DEV**: `AKD Horizon - DEV` — tema #153520078936, unpublished/preview. Geliştirme ve önizleme burada yapılır.
 - Ortamlar `shopify.theme.toml` içinde `[environments.development]` ve `[environments.live]` olarak tanımlıdır.
 - Push komutları: `shopify theme push --environment=development` (serbest) / `shopify theme push --environment=live` (**yalnızca kullanıcı açıkça onay verirse**).
 
